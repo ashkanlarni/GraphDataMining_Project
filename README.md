@@ -19,3 +19,5 @@ This piece of code integrates various data outputs from the preceding processing
 
 ------------------------------------------------------------------------
 NOTE: The results in the report might differ with the saved results in the notebooks. That is because I ran all the codes again, after writing and submitting the report, to make sure everything is neat and clean, and also, train the VAE with more epochs, with slightly different hyperparameters.
+
+NOTE.2: I did not upload the data, since it was many files, but in case it was needed, please let me know, and I will do so.
